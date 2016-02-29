@@ -13,3 +13,6 @@ David Langer - Introduction to Data Science with R
 Christoph Scherber - series on R
 
 - Statistics with R (1) - Linear regression - https://www.youtube.com/watch?v=Xh6Rex3ARjc
+
+
+Awesome explanation of the terminology  https://www.youtube.com/watch?v=e7PtveMRMbs
