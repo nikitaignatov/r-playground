@@ -16,3 +16,10 @@ Christoph Scherber - series on R
 
 
 Awesome explanation of the terminology  https://www.youtube.com/watch?v=e7PtveMRMbs
+
+
+
+
+Great series stats
+
+- Statistics 101: Multiple Regression (Part 1), The Very Basics  https://www.youtube.com/watch?v=dQNpSa-bq4M
