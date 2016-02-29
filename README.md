@@ -20,6 +20,6 @@ Awesome explanation of the terminology  https://www.youtube.com/watch?v=e7PtveMR
 
 
 
-Great series stats
+Great series stats by Brandon Foltz
 
 - Statistics 101: Multiple Regression (Part 1), The Very Basics  https://www.youtube.com/watch?v=dQNpSa-bq4M
